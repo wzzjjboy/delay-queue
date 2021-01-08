@@ -22,3 +22,6 @@ delay-queue
 main
 node_modules
 package.json
+
+# config
+delay-queue.conf
