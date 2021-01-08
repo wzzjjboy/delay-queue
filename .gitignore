@@ -25,3 +25,9 @@ package.json
 
 # config
 delay-queue.conf
+
+
+
+#logs
+/logs/*
+!.gitkeep
